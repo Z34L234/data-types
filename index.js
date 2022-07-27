@@ -17,3 +17,26 @@ let equals= x==y
 console.log (equals)
 let lessthan= x<y
 console.log (lessthan)
+
+// alert("here")
+
+let person = null;
+let emptyarray = [];
+let numbers = [1,2,3];
+let randomArray = [1,"Best",true,null];
+
+console.log (numbers)
+console.log (numbers[2])
+console.log (randomArray[3])
+console.log(numbers.length)
+let newArray = [5,6,1,2,5,6,7,8,10,100,0,13]
+let lastitemposition = newArray.length-1
+console.log (newArray[lastitemposition])
+let newObject = {};
+let personObject = {
+    name: "lilnesty",
+    age: 13,
+    job: "Software Engineer",
+    isRich: true,
+};
+console.log (personObject)
