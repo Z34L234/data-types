@@ -41,7 +41,7 @@ let personObject = {
 };
 console.log (personObject)*/
 
-let weather = 'clearsky'
+let weather = 'clearsky+++'
 
 if(weather=='sunny'){
     console.log('It will be sunny')
