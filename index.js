@@ -1,4 +1,4 @@
-console.log ("hello")
+/*console.log ("hello")
 let Apple= "Ernest" 
 console.log(Apple)
 let name= "Ernest" +" "+ "Onyekwena"
@@ -16,11 +16,11 @@ console.log (divide)
 let equals= x==y
 console.log (equals)
 let lessthan= x<y
-console.log (lessthan)
+console.log (lessthan)*/
 
 // alert("here")
 
-let person = null;
+/*let person = null;
 let emptyarray = [];
 let numbers = [1,2,3];
 let randomArray = [1,"Best",true,null];
@@ -39,4 +39,18 @@ let personObject = {
     job: "Software Engineer",
     isRich: true,
 };
-console.log (personObject)
+console.log (personObject)*/
+
+let weather = 'clearsky'
+
+if(weather=='sunny'){
+    console.log('It will be sunny')
+}
+
+if(weather=='rainy'){
+    console.log('It will be rainy')
+}
+
+if(weather=='clearsky'){
+    console.log('We will have a clear sky')
+}
